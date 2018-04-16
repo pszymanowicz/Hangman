@@ -266,7 +266,6 @@ int main()
 		}
 		std::cin >> s;
 	}
-
 	return 0;
 }
 
