@@ -1,0 +1,5 @@
+﻿  Hangman.cpp
+c:\users\przemysław\documents\visual studio 2017\projects\hangman\hangman\hangman.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\przemysław\documents\visual studio 2017\projects\hangman\hangman\hangman.cpp(206): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Hangman.vcxproj -> C:\Users\Przemysław\Documents\Visual Studio 2017\Projects\Hangman\Debug\Hangman.exe
+  Hangman.vcxproj -> C:\Users\Przemysław\Documents\Visual Studio 2017\Projects\Hangman\Debug\Hangman.pdb (Partial PDB)
